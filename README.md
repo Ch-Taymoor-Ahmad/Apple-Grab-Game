@@ -53,11 +53,6 @@ To randomly spawn apples and coins, create a script to spawn them at random posi
 1. Drag the apple and coin GameObjects into the **Project** panel to create prefabs.
 2. Assign the prefabs to the `Spawner` script.
 
-### **5.2 Testing**
-1. Press **Play** and move the mouse around. The hand should follow the cursor.
-2. Move the hand over apples and coins to collect them.
-3. Verify the score updates correctly in the UI.
-
 
 ## **Optional Features**
 1. **Sound Effects**: Add a grab sound when the hand collects an item.
@@ -69,5 +64,3 @@ To randomly spawn apples and coins, create a script to spawn them at random posi
    - End the game when the timer reaches 0.
 
 3. **Hand Animation**: Add an animation for grabbing items (e.g., scaling or changing the sprite).
-
-Would you like help implementing any of these optional features or further tweaking the design? Let me know!
